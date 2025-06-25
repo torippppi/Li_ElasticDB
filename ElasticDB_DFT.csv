@@ -1,4 +1,4 @@
-﻿Materials,B [GPa],E [GPa],G [GPa],Poisson,B/G,Volume [Å^3],MAV
+﻿Materials,B [GPa],E [GPa],G [GPa],Poisson,B/G,Volume [Å^3],MeanAtomicVolume [cm^3 mol^(-1)]
 Li6PS5Cl,34.733,27.436,10.025,0.3684,3.4646,1013.3955,11.7362
 Li6PS5Br,35.19,30.114,11.093,0.3574,3.1723,1014.3155,11.7468
 Li6PS5I,35.141,35.1,13.161,0.3335,2.6701,1025.9877,11.882
